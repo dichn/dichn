@@ -1,1 +1,1 @@
-[![dichen16's github stats](https://github-readme-stats.vercel.app/api?username=dichen16&show_icons=true)](https://github.com/dichen16/)
+[![dichn's github stats](https://github-readme-stats.vercel.app/api?username=dichn&show_icons=true)](https://github.com/dichn/)
